@@ -44,7 +44,7 @@ Os modelos foram escolhidos após consultar os modelos disponíveis na API da Op
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/<seu-usuario>/mba-ia-desafio-ingestao-busca.git
+git clone https://github.com/obrunomota/mba-ia-desafio-ingestao-busca.git
 cd mba-ia-desafio-ingestao-busca
 ```
 
